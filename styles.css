@@ -19,15 +19,14 @@ body {
 
 body {
   font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-  background: #8c8c8f;
+  background: var(--surface);
   color: var(--ink);
-  padding: clamp(0.75rem, 1.8vw, 1.5rem);
+  padding: 0;
 }
 
 .page-shell {
   background: var(--surface);
-  border: 1px solid #c8c8ce;
-  min-height: calc(100vh - clamp(1.5rem, 3.6vw, 3rem));
+  min-height: 100vh;
   overflow: hidden;
   position: relative;
 }
