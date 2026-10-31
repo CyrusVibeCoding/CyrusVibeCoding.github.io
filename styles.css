@@ -19,7 +19,7 @@ body {
 
 body {
   font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-  background: linear-gradient(140deg, #989898 0%, #7d7d7d 100%);
+  background: #8c8c8f;
   color: var(--ink);
   padding: clamp(0.75rem, 1.8vw, 1.5rem);
 }
