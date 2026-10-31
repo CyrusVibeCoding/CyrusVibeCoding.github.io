@@ -5,7 +5,7 @@
 # For format details, see: https://gh.io/customagents/config
 
 name: No-Slop
-description:
+description:Enforces clean, modern, professional UI/UX design while eliminating generic AI-generated aesthetics, unnecessary gradients, visual clutter, and overused design trends. Prioritizes intentional layouts, consistent typography, restrained colors, and polished user experiences.
 ---
 
 # My Agent
